@@ -8,8 +8,7 @@ pipeline {
   stages {
       stage('Клонирование репозитория') {
           steps {
-              git 'https://github.com/your-repository/sampl
-e-node-app.git'
+              git 'https://github.com/Armani69/13nedel.git'
             }
         }
     
